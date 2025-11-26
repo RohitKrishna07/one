@@ -10,8 +10,8 @@
   <!-- Hero Section -->
   <header class="hero">
     <div class="hero-content">
-      <h1>Welcome to my first app with nexus</h1>
-      <p>Transforming spaces into your dream home</p>
+      <h1>Welcome to my first Java Appliaction deployed in process os learning DEVOPS</h1>
+      <p>Transforming By learning my carear into DEVOPS engineer</p>
       <a href="#contact" class="btn">Get Started</a>
     </div>
   </header>
