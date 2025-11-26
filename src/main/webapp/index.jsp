@@ -23,7 +23,7 @@
       <div class="card">
         <img src="https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1600&q=80" alt="Residential Design">
         <h3>Residential Design</h3>
-        <p>We create beautiful and functional living spaces tailored to your needs.</p>
+        <p>Fully automted the app when Developer push code into GIT the CICD will autmatically build test and deploy the app into the APP server</p>
       </div>
       <div class="card">
         <img src="https://images.unsplash.com/photo-1497366858526-0766cadbe8fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1600&q=80" alt="Commercial Design">
