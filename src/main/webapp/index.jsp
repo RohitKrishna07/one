@@ -10,7 +10,7 @@
   <!-- Hero Section -->
   <header class="hero">
     <div class="hero-content">
-      <h1>Welcome to my first Java Appliaction deployed to both NEXUS and TOMCAT</h1>
+      <h1>Welcome to my first Java Appliaction deployed to both Tomact using pipeline style job </h1>
 <h2>Where im using nexus to save backup for roll back</h2>
       <p>Transforming By learning my carear into DEVOPS engineer</p>
       <a href="#contact" class="btn">Get Started</a>
