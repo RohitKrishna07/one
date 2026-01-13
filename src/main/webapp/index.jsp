@@ -15,7 +15,7 @@
       <p>Transforming By learning my carear into DEVOPS engineer</p>
       <a href="#contact" class="btn">Get Started</a>
     </div>
-  </header>
+  
 
   <!-- Services Section -->
   <section class="services" id="services">
